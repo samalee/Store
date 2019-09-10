@@ -1,0 +1,2 @@
+class BeautyDepartment < ApplicationRecord
+end
